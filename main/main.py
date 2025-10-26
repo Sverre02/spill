@@ -1,4 +1,3 @@
-"""A base for games using a singular simple tilmap"""
 import pygame as p
 from pathlib import Path
 import json
@@ -104,3 +103,4 @@ while running:
 sys.exit()
 
 p.quit()
+
